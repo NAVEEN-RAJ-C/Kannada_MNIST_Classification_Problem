@@ -72,6 +72,7 @@ Confusion Matrix:
  [ 13  33   4   5  22  13  10   5  65 830]]
 
  ROC_AUC:
+ 
  ![image](https://github.com/NAVEEN-RAJ-C/Kannada_MNIST_Classification_Problem/assets/133734968/72f8f6ad-5fd3-4234-b547-032358b8f383)
 
 Conclusion
